@@ -4,25 +4,25 @@ The GitHub for the 17-18 Hackathon hosted at Laguna Hills High School. All thing
 
 # Links to things made throughout the day:
 
-PC Building:
+PC Building:  
 
-3D Printing:
+3D Printing:  
 
-Intro to web development:
+Intro to web development:  
 
-Tools used in the industry:
+Tools used in the industry:  
 
-PC Building Advanced:
+PC Building Advanced:  
 
-Intro to python:
+Intro to python:  
 
-Intro to react-native app development:
+Intro to react-native app development:  
 
-Advanced python:
+Advanced python:  
 
-CockroachDB:
+CockroachDB:  
 
-Docker:
+Docker:  
 
 
 ***Happy hacking!***
