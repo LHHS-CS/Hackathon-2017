@@ -6,30 +6,24 @@ export default class App extends Component {
   render() {
     return (
      <View style={styles.container}>
-          <Text>
-          Start writing code here!
+          //you write your code in here!
+          <Text style={styles.text}>
+          Hello World
           </Text>
      </View>
     );
   }
 }
-// create your stylesheets
+
+// the stylesheets
 const styles = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: 'white',
     },
-    loginContainer:{
-        alignItems: 'center',
-        flex: 1,
-        justifyContent: 'center'
+    text:{
+        color: 'black',
+        backgroundColor: 'whitesmoke'
     },
-    logo: {
-        position: 'absolute',
-        width: 300,
-        height: 100,
-        width: 100,
-        height: 100
-    }
   }
-  )
+)
