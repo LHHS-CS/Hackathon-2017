@@ -6,4 +6,4 @@
 
 [Slack](slack.com)  
 
-[Ubuntu](https://www.ubuntu.com/)  
+[Ubuntu](https://www.ubuntu.com/download)  

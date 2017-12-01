@@ -1,1 +1,1 @@
-scratch(scratch.com)
+[scratch](scratch.com)

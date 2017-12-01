@@ -20,9 +20,9 @@ Intro to react-native app development:
 
 Advanced python:  
 
-CockroachDB:  
+Building scalable apps with CockroachDB:  
 
-Docker:  
+Intro to Docker:  
 
 
 ***Happy hacking!***
